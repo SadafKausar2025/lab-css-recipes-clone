@@ -1,0 +1,74 @@
+.head{
+    display: flex;
+    flex-direction: column;
+    color:red;
+    font-size: 45px;
+    justify-content: center;
+    align-items: center;
+}
+
+.apple{
+    border: 24px solid rgb(88, 31, 31);
+    border-radius: 15px;
+
+}
+
+.para{
+    font-size: 25px;
+    margin: 24px;
+    padding: 24px;
+    color: rgb(93, 11, 93);
+}
+
+.recipe{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 35px;
+    color: black;
+}
+
+.recipe_img{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 5px solid black;  
+    margin: 24px;
+    padding: 24px;
+    background-color: rgb(231, 192, 192);
+}
+
+.inge{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 35px;
+    color: green;
+}
+
+.list{
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        list-style:circle;
+        color: rgb(46, 83, 104);
+        font-size: x-large;
+}
+
+.cooking{
+    display: flex;
+        justify-content: center;
+        align-items: center;
+        font-size: 35px;
+}
+
+.orlist{
+    display: flex;
+        flex-direction: column;
+        align-items: center;
+        color: rgb(46, 83, 104);
+        font-size: x-large;
+        margin: 24px;
+        padding: 24px;
+        gap: 34px;
+}
